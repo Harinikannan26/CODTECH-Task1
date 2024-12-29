@@ -1,0 +1,48 @@
+Nzme: HARINI I K
+Company: CODTECH IT SOLUTIONS
+ID: CT12EXE
+Domain: PYTHON PROGRAMMING
+Durations: DEC 20TH 2024 TO FEB 20TH 2025
+Mentor: SRAVANI 
+
+## Project Overview:
+Inventory Management System
+This project is a Python-based Inventory Management System designed to help businesses efficiently manage their inventory, track stock levels, and handle basic operations such as adding, removing, and updating inventory records. It serves as an educational project, demonstrating the use of Python programming concepts and principles.
+
+## Features
+
+Add Items:
+Add new items to the inventory with details such as name, quantity, and price.
+Remove Items: 
+Delete items from the inventory by specifying their unique identifier.
+Update Inventory: 
+Update the quantity or price of existing items.
+View Inventory: 
+Display all items currently stored in the inventory.
+Search Functionality: 
+Search for specific items based on their name or ID.
+
+## Code Structure
+The code is organized into functions that handle specific operations, making it modular and easy to understand. Key functions include:
+`add_item()`: Adds a new item to the inventory.
+`remove_item()`: Removes an item based on its ID.
+`update_item()`: Updates the details of an item.
+`view_inventory()`: Displays all items.
+`search_item()`: Searches for items by name or ID.
+
+## Technologies Used
+Python 100%:
+Core programming for this application.
+
+## Contributing
+Contributions are welcome! If you have ideas to improve the system or fix issues, feel free to open a pull request or raise an issue in the repository.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+- This project is part of CODTECH Task 1.
+- Thanks to all contributors and users who provided valuable feedback.
+
+
+
